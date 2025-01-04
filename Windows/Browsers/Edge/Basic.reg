@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
+"BlockThirdPartyCookies"=dword:00000001
+"EnhanceSecurityMode"=dword:00000002
+"AutofillCreditCardEnabled"=dword:00000000
+"AutofillMembershipsEnabled"=dword:0000000
+"AutomaticHttpsDefault"=dword:0000002
+"TrackingPrevention"=dword:0000003
+"UserFeedbackAllowed"=dword:0000001
+"PersonalizationReportingEnabled"=dword:0000001
+"DiagnosticData"=dword:0000000
