@@ -14,3 +14,8 @@ We provide simple implementation lists of popular operating systems
 ### Microsoft Edge (Browser)
 
 [Check our Edge Hardening guide](/Windows/Browsers/Edge/README.md)
+
+### Miscellaneous
+Just an bunch of random things that don't realy fit any catogory above
+
+[Code Siging with selfsigned certificates](/Miscellaneous/CodeSigingGuide.md)
