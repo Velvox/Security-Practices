@@ -19,4 +19,5 @@ We provide simple implementation lists of popular operating systems
 Just an bunch of random things that don't realy fit any catogory above
 
 [Code Siging with selfsigned certificates](/Miscellaneous/CodeSigingGuide.md)
+
 [Updating Windows without waiting untill Microsoft pushes it (from windowslatest.com)](https://www.windowslatest.com/2024/10/15/get-windows-11-24h2-quickly-and-skip-microsofts-wait-with-registry-group-policy-editor/)
