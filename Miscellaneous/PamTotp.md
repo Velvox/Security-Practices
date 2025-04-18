@@ -93,7 +93,7 @@ AuthenticationMethods publickey,password publickey,keyboard-interactive
 
 #### Forcing "KeyboardInterActiveAuthentication"
 
-> [!INFO]
+> [!NOTE]
 > Logging in will then require Password + TOTP and Public key authentication will no longer work.
 
 To force every user to use `KbdInteractiveAuthentication` uncomment:
